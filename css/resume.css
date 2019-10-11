@@ -21,6 +21,17 @@ img {
     float: right;
     border : solid 1px #cccccc ;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    
-
 }
+
+h1 {
+    font-family: vibur, cursive;
+}
+
+td:first-child { 
+    color : rgb(41, 214, 41) 
+   }
+
+dt { 
+    color : rgb(41, 214, 41)
+   }
+
