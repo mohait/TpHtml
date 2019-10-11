@@ -1,0 +1,26 @@
+html,button,input,select,textarea {
+    color: #444;
+}
+
+html {
+    background: #777;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+div#wrapper {
+    max-width: 900px;
+    min-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+img {
+    float: right;
+    border : solid 1px #cccccc ;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    
+
+}
