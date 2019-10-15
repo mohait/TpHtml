@@ -25,6 +25,7 @@ img {
 
 h1 {
     font-family: vibur, cursive;
+    
 }
 
 td:first-child { 
@@ -32,6 +33,7 @@ td:first-child {
    }
 
 dt { 
-    color : rgb(41, 214, 41)
+    color : rgb(41, 214, 41);
+   
    }
 
