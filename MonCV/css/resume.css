@@ -52,4 +52,5 @@ button {
 
 .formation {
     display: none;
+    overflow: hidden;
 }
